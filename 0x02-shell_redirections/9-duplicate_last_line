@@ -1,2 +1,2 @@
 #!/bin/basha
-echo "$(tail -n1 iacta)" >> iacta
+tail -n1 iacta >> iacta
